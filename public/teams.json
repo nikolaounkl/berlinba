@@ -1,0 +1,242 @@
+[
+	{
+		"id": 1,
+		"conference": "east",
+		"abbreviation": "ATL",
+		"teamName": "Atlanta Hawks",
+		"simpleName": "Hawks",
+		"location": "Atlanta"
+	},
+	{
+		"id": 2,
+		"conference": "east",
+		"abbreviation": "BOS",
+		"teamName": "Boston Celtics",
+		"simpleName": "Celtics",
+		"location": "Boston"
+	},
+	{
+		"id": 3,
+		"conference": "east",
+		"abbreviation": "BKN",
+		"teamName": "Brooklyn Nets",
+		"simpleName": "Nets",
+		"location": "Brooklyn"
+	},
+	{
+		"id": 4,
+		"conference": "east",
+		"abbreviation": "CHA",
+		"teamName": "Charlotte Hornets",
+		"simpleName": "Hornets",
+		"location": "Charlotte"
+	},
+	{
+		"id": 5,
+		"conference": "east",
+		"abbreviation": "CHI",
+		"teamName": "Chicago Bulls",
+		"simpleName": "Bulls",
+		"location": "Chicago"
+	},
+	{
+		"id": 6,
+		"conference": "east",
+		"abbreviation": "CLE",
+		"teamName": "Cleveland Cavaliers",
+		"simpleName": "Cavaliers",
+		"location": "Cleveland"
+	},
+	{
+		"id": 7,
+		"conference": "west",
+		"abbreviation": "DAL",
+		"teamName": "Dallas Mavericks",
+		"simpleName": "Mavericks",
+		"location": "Dallas"
+	},
+	{
+		"id": 8,
+		"conference": "west",
+		"abbreviation": "DEN",
+		"teamName": "Denver Nuggets",
+		"simpleName": "Nuggets",
+		"location": "Denver"
+	},
+	{
+		"id": 9,
+		"conference": "east",
+		"abbreviation": "DET",
+		"teamName": "Detroit Pistons",
+		"simpleName": "Pistons",
+		"location": "Detroit"
+	},
+	{
+		"id": 10,
+		"conference": "west",
+		"abbreviation": "GSW",
+		"teamName": "Golden State Warriors",
+		"simpleName": "Warriors",
+		"location": "Golden State"
+	},
+	{
+		"id": 11,
+		"conference": "west",
+		"abbreviation": "HOU",
+		"teamName": "Houston Rockets",
+		"simpleName": "Rockets",
+		"location": "Houston"
+	},
+	{
+		"id": 12,
+		"conference": "east",
+		"abbreviation": "IND",
+		"teamName": "Indiana Pacers",
+		"simpleName": "Pacers",
+		"location": "Indiana"
+	},
+	{
+		"id": 13,
+		"conference": "west",
+		"abbreviation": "LAC",
+		"teamName": "Los Angeles Clippers",
+		"simpleName": "Clippers",
+		"location": "Los Angeles"
+	},
+	{
+		"id": 14,
+		"conference": "west",
+		"abbreviation": "LAL",
+		"teamName": "Los Angeles Lakers",
+		"simpleName": "Lakers",
+		"location": "Los Angeles"
+	},
+	{
+		"id": 15,
+		"conference": "west",
+		"abbreviation": "MEM",
+		"teamName": "Memphis Grizzlies",
+		"simpleName": "Grizzlies",
+		"location": "Memphis"
+	},
+	{
+		"id": 16,
+		"conference": "east",
+		"abbreviation": "MIA",
+		"teamName": "Miami Heat",
+		"simpleName": "Heat",
+		"location": "Miami"
+	},
+	{
+		"id": 17,
+		"conference": "east",
+		"abbreviation": "MIL",
+		"teamName": "Milwaukee Bucks",
+		"simpleName": "Bucks",
+		"location": "Milwaukee"
+	},
+	{
+		"id": 18,
+		"conference": "west",
+		"abbreviation": "MIN",
+		"teamName": "Minnesota Timberwolves",
+		"simpleName": "Timberwolves",
+		"location": "Minnesota"
+	},
+	{
+		"id": 19,
+		"conference": "west",
+		"abbreviation": "NOP",
+		"teamName": "New Orleans Pelicans",
+		"simpleName": "Pelicans",
+		"location": "New Orleans"
+	},
+	{
+		"id": 20,
+		"conference": "east",
+		"abbreviation": "NYK",
+		"teamName": "New York Knicks",
+		"simpleName": "Knicks",
+		"location": "New York"
+	},
+	{
+		"id": 21,
+		"conference": "west",
+		"abbreviation": "OKC",
+		"teamName": "Oklahoma City Thunder",
+		"simpleName": "Thunder",
+		"location": "Oklahoma City"
+	},
+	{
+		"id": 22,
+		"conference": "east",
+		"abbreviation": "ORL",
+		"teamName": "Orlando Magic",
+		"simpleName": "Magic",
+		"location": "Orlando"
+	},
+	{
+		"id": 23,
+		"conference": "east",
+		"abbreviation": "PHI",
+		"teamName": "Philadelphia 76ers",
+		"simpleName": "76ers",
+		"location": "Philadelphia"
+	},
+	{
+		"id": 24,
+		"conference": "west",
+		"abbreviation": "PHX",
+		"teamName": "Phoenix Suns",
+		"simpleName": "Suns",
+		"location": "Phoenix"
+	},
+	{
+		"id": 25,
+		"conference": "west",
+		"abbreviation": "POR",
+		"teamName": "Portland Trail Blazers",
+		"simpleName": "Trail Blazers",
+		"location": "Portland"
+	},
+	{
+		"id": 26,
+		"conference": "west",
+		"abbreviation": "SAC",
+		"teamName": "Sacramento Kings",
+		"simpleName": "Kings",
+		"location": "Sacramento"
+	},
+	{
+		"id": 27,
+		"conference": "west",
+		"abbreviation": "SAS",
+		"teamName": "San Antonio Spurs",
+		"simpleName": "Spurs",
+		"location": "San Antonio"
+	},
+	{
+		"id": 28,
+		"conference": "east",
+		"abbreviation": "TOR",
+		"teamName": "Toronto Raptors",
+		"simpleName": "Raptors",
+		"location": "Toronto"
+	},
+	{
+		"id": 29,
+		"conference": "west",
+		"abbreviation": "UTA",
+		"teamName": "Utah Jazz",
+		"simpleName": "Jazz",
+		"location": "Utah"
+	},
+	{
+		"id": 30,
+		"conference": "east",
+		"abbreviation": "WAS",
+		"teamName": "Washington Wizards",
+		"simpleName": "Wizards",
+		"location": "Washington"
+	}
+]
