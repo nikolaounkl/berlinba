@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/berlinba/static/css/main.23b595ad.chunk.css",
+    "main.css": "/berlinba/static/css/main.d403fe41.chunk.css",
     "main.js": "/berlinba/static/js/main.3655249c.chunk.js",
     "main.js.map": "/berlinba/static/js/main.3655249c.chunk.js.map",
     "runtime~main.js": "/berlinba/static/js/runtime~main.3de86cc9.js",
@@ -8,8 +8,8 @@
     "static/js/2.9869172a.chunk.js": "/berlinba/static/js/2.9869172a.chunk.js",
     "static/js/2.9869172a.chunk.js.map": "/berlinba/static/js/2.9869172a.chunk.js.map",
     "index.html": "/berlinba/index.html",
-    "precache-manifest.69ff84788c397f2e7d81710660cecdf2.js": "/berlinba/precache-manifest.69ff84788c397f2e7d81710660cecdf2.js",
+    "precache-manifest.dcf84abade704a7ab34216cdcbcaae01.js": "/berlinba/precache-manifest.dcf84abade704a7ab34216cdcbcaae01.js",
     "service-worker.js": "/berlinba/service-worker.js",
-    "static/css/main.23b595ad.chunk.css.map": "/berlinba/static/css/main.23b595ad.chunk.css.map"
+    "static/css/main.d403fe41.chunk.css.map": "/berlinba/static/css/main.d403fe41.chunk.css.map"
   }
 }
