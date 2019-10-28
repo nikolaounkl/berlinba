@@ -42,8 +42,8 @@ const Teams = () => {
 								rel="noopener noreferrer"
 							>
 								<img
-									src={`img/${team.abbreviation}.png`}
-									alt={`${team.abbreviation}`}
+									src={`img/${team.abbreviation.toLowerCase()}.png`}
+									alt={`${team.abbreviation.toLowerCase()}`}
 									height="100"
 								/>
 							</a>
