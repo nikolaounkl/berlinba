@@ -6,152 +6,152 @@ const data = [
 	{
 		id: 1,
 		conference: "east",
-		abbreviation: "ATL"
+		abbreviation: "hawks"
 	},
 	{
 		id: 2,
 		conference: "east",
-		abbreviation: "BOS"
+		abbreviation: "celtics"
 	},
 	{
 		id: 3,
 		conference: "east",
-		abbreviation: "BKN"
+		abbreviation: "nets"
 	},
 	{
 		id: 4,
 		conference: "east",
-		abbreviation: "CHA"
+		abbreviation: "hornets"
 	},
 	{
 		id: 5,
 		conference: "east",
-		abbreviation: "CHI"
+		abbreviation: "bulls"
 	},
 	{
 		id: 6,
 		conference: "east",
-		abbreviation: "CLE"
+		abbreviation: "cavaliers"
 	},
 	{
 		id: 7,
 		conference: "west",
-		abbreviation: "DAL"
+		abbreviation: "mavericks"
 	},
 	{
 		id: 8,
 		conference: "west",
-		abbreviation: "DEN"
+		abbreviation: "nuggets"
 	},
 	{
 		id: 9,
 		conference: "east",
-		abbreviation: "DET"
+		abbreviation: "pistons"
 	},
 	{
 		id: 10,
 		conference: "west",
-		abbreviation: "GSW"
+		abbreviation: "warriors"
 	},
 	{
 		id: 11,
 		conference: "west",
-		abbreviation: "HOU"
+		abbreviation: "rockets"
 	},
 	{
 		id: 12,
 		conference: "east",
-		abbreviation: "IND"
+		abbreviation: "pacers"
 	},
 	{
 		id: 13,
 		conference: "west",
-		abbreviation: "LAC"
+		abbreviation: "clippers"
 	},
 	{
 		id: 14,
 		conference: "west",
-		abbreviation: "LAL"
+		abbreviation: "lakers"
 	},
 	{
 		id: 15,
 		conference: "west",
-		abbreviation: "MEM"
+		abbreviation: "grizzlies"
 	},
 	{
 		id: 16,
 		conference: "east",
-		abbreviation: "MIA"
+		abbreviation: "heat"
 	},
 	{
 		id: 17,
 		conference: "east",
-		abbreviation: "MIL"
+		abbreviation: "bucks"
 	},
 	{
 		id: 18,
 		conference: "west",
-		abbreviation: "MIN"
+		abbreviation: "timberwolves"
 	},
 	{
 		id: 19,
 		conference: "west",
-		abbreviation: "NOP"
+		abbreviation: "pelicans"
 	},
 	{
 		id: 20,
 		conference: "east",
-		abbreviation: "NYK"
+		abbreviation: "knicks"
 	},
 	{
 		id: 21,
 		conference: "west",
-		abbreviation: "OKC"
+		abbreviation: "thunder"
 	},
 	{
 		id: 22,
 		conference: "east",
-		abbreviation: "ORL"
+		abbreviation: "magic"
 	},
 	{
 		id: 23,
 		conference: "east",
-		abbreviation: "PHI"
+		abbreviation: "sixers"
 	},
 	{
 		id: 24,
 		conference: "west",
-		abbreviation: "PHX"
+		abbreviation: "suns"
 	},
 	{
 		id: 25,
 		conference: "west",
-		abbreviation: "POR"
+		abbreviation: "blazers"
 	},
 	{
 		id: 26,
 		conference: "west",
-		abbreviation: "SAC"
+		abbreviation: "kings"
 	},
 	{
 		id: 27,
 		conference: "west",
-		abbreviation: "SAS"
+		abbreviation: "spurs"
 	},
 	{
 		id: 28,
 		conference: "east",
-		abbreviation: "TOR"
+		abbreviation: "raptors"
 	},
 	{
 		id: 29,
 		conference: "west",
-		abbreviation: "UTA"
+		abbreviation: "jazz"
 	},
 	{
 		id: 30,
 		conference: "east",
-		abbreviation: "WAS"
+		abbreviation: "wizzards"
 	}
 ];
 
