@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "ac04f5d7f9b9391e44759d9f6b2a98a8",
+    "revision": "f074c44b6eb6b59759358ae880d98d93",
     "url": "/berlinba/index.html"
   },
   {
-    "revision": "fc6dd6b0b58a2372794c",
+    "revision": "31b750fce224ddfd232e",
     "url": "/berlinba/static/css/main.23b595ad.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/berlinba/static/js/2.9869172a.chunk.js"
   },
   {
-    "revision": "fc6dd6b0b58a2372794c",
-    "url": "/berlinba/static/js/main.43d97a59.chunk.js"
+    "revision": "31b750fce224ddfd232e",
+    "url": "/berlinba/static/js/main.699fb738.chunk.js"
   },
   {
     "revision": "f19140b62ee1a34fcc5d",
