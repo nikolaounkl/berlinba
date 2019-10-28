@@ -160,6 +160,8 @@ const TeamContextProvider = props => {
 	const [east] = useState(teams.filter(team => team.conference === "east"));
 	const [west] = useState(teams.filter(team => team.conference === "west"));
 
+	console.log(east);
+
 	return (
 		<TeamContext.Provider value={{ teams, west, east }}>
 			{props.children}
