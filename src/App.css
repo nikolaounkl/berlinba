@@ -43,7 +43,7 @@ body {
 	background: rgba(255, 255, 255, 0.7);
 	box-shadow: 0 0 5px 0px #000;
 	border-radius: 5px;
-	cursor: pointer;
+	cursor: grab;
 }
 
 .team:hover {
