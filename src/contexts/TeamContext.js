@@ -151,7 +151,7 @@ const data = [
 	{
 		id: 30,
 		conference: "east",
-		abbreviation: "wizzards"
+		abbreviation: "wizards"
 	}
 ];
 
@@ -159,8 +159,6 @@ const TeamContextProvider = props => {
 	const [teams] = useState(data);
 	const [east] = useState(teams.filter(team => team.conference === "east"));
 	const [west] = useState(teams.filter(team => team.conference === "west"));
-
-	console.log(east);
 
 	return (
 		<TeamContext.Provider value={{ teams, west, east }}>

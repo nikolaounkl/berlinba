@@ -4,22 +4,16 @@
 
 .container {
 	display: flex;
-	justify-content: space-around;
-	align-items: center;
-}
-.conference {
-	flex-direction: column;
 	justify-content: center;
 	align-items: center;
-	max-width: 300px;
-	text-align: center;
 }
 
-.team-wrapper {
+.teams {
 	display: flex;
 	flex-wrap: wrap;
 	justify-content: center;
 	align-items: center;
+	max-width: 600px;
 }
 
 .team {
@@ -30,5 +24,26 @@
 }
 
 .team:hover {
+	background: rgba(255, 255, 255, 0.3);
+}
+
+.links {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	align-items: center;
+}
+
+.icon {
+	font-size: 3.8em;
+	color: #0067ac;
+	background: rgba(255, 255, 255, 0.7);
+	box-shadow: 0 0 5px 0px #000;
+	border-radius: 5px;
+	cursor: grab;
+	padding: 0.32em;
+}
+
+.icon:hover {
 	background: rgba(255, 255, 255, 0.3);
 }

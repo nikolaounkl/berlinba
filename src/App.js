@@ -2,12 +2,13 @@ import React from "react";
 import "./App.css";
 import TeamContextProvider from "./contexts/TeamContext";
 import Teams from "./components/Teams";
+import Links from "./components/Links";
 import { createGlobalStyle } from "styled-components";
 
 const GlobalStyle = createGlobalStyle`
 	body {
 		margin: 0;
-		padding: 0;
+		padding: 20px 0;
 		box-sizing: border-box;
 		font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto",
 			"Oxygen", "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans",
@@ -20,6 +21,9 @@ const GlobalStyle = createGlobalStyle`
 		background-attachment: fixed;
 		background-size: cover;
 		background-repeat: no-repeat;
+		display: flex;
+		justify-content: center;
+		align-items: center;
 	}
 `;
 
@@ -28,7 +32,11 @@ function App() {
 		<div className="App">
 			<TeamContextProvider>
 				<GlobalStyle />
-				<Teams />
+				<div className="container">
+					<Teams />
+				</div>
+				<br />
+				<Links />
 			</TeamContextProvider>
 		</div>
 	);
